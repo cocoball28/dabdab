@@ -10,5 +10,6 @@ public class Dabdab {
 		System.out.println("미안해 오빠....ㅎㅎㅎ....");
 		System.out.println("배부르니깐 또 기분이 좋네!!!!");
 		dabdab = "또 짜증내면서";
+		System.out.println("내가언제ㅡㅡ....");
 	}
 }
