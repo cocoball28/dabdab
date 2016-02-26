@@ -7,5 +7,8 @@ public class Dabdab {
 		dabdab = "그만화내나한테";
 		System.out.println("싫어");
 		dabdab = "맨날 짜증이나 내고 말이야 나한테";
+		System.out.println("미안해 오빠....ㅎㅎㅎ....");
+		System.out.println("배부르니깐 또 기분이 좋네!!!!");
+		
 	}
 }
